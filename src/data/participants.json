@@ -12,5 +12,12 @@
         "faculty": "Computer Science",
         "bio": "Hackathons! Community! Music!",
         "email": "sagarupreti100@gmail.com"
-    }
+    },
+    {
+      "name": "Gaurab Shrestha",
+      "batch": 2018,
+      "faculty": "Computer Engineering",
+      "bio": "⚽, 🌇 && 💻",
+      "email": "gaurabstha001@gmail.com"
+  }
 ]
